@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorena</h1>
+<h1 align="center">Hello 👋, I'm Lorena</h1>
 <h3 align="center"> An Engineer & Data Scientist with a Diverse Skill Set and Creative Perspective 🪄 </h3>
 
 - 🪂 i'm a newcomer in the data science world: just finalized my Data Science and AI bootcamp on Le Wagon!
