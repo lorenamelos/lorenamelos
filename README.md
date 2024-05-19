@@ -1,18 +1,17 @@
 <h1 align="center">Hello 👋, I'm Lorena</h1>
 <h3 align="center"> An Engineer & Data Scientist with a Diverse Skill Set and Creative Perspective 🪄 </h3>
 
-- 🪂 i'm a newcomer in the data science world: just finalized my Data Science and AI bootcamp on Le Wagon! 
-  - my final project was a **ML multi-classification problem**, and you can reach the codes visiting my github profile! <br>
+- 🪂 i'm a newcomer in the data science world: I recently finalized a Data Science and AI bootcamp to enhance my skill in this field and Iam already taking steps to specialize in NLP and LLMs. <br>
 
 - 🦄 Curious fact: besides being a Data Scientist I am also an artist; more specifically a **tattoo artist** 🪄
 
-- 🧠 I’m currently learning **Deep Learning and Generative AI**
+- 🧠 I’m currently learning **Natural Language Processing and Generative AI / LLMs**
 
 - 📫 How to reach me: **lorenamelo.engr@gmail.com**
     
 - 🤗 Personal Interests: **I love art, playing guitar and singing, watch cult movies, tv shows, and travel to new places. I'm a foodie and every new place I visit I want to experience the food!**
 
-- 🌞 I believe life is good and the main point for me is **having fun along the way :)**
+- 🌞 I believe we are all creatives and my main idea is **have fun creating incredible stuff** and also **building an exciting life**.
 
 <h3 align="left"> 🔗 Connect with me:</h3>
 <p align="left">
