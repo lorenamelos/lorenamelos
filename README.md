@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Lorena</h1>
 <h3 align="center"> An Engineer & Data Scientist with a Diverse Skill Set and Creative Perspective 🪄 </h3>
 
-- 🪂 i'm a newcomer in the data science world: I recently finalized a Data Science and AI bootcamp to enhance my skill in this field and Iam already taking steps to specialize in NLP and LLMs. <br>
+- 🪂 I am a Data Scientist specializing in AI development, NLP and LLMs. <br>
 
 - 🦄 Curious fact: besides being a Data Scientist I am also an **artist** 🪄
 
-- 🧠 I’m currently learning **Natural Language Processing and Generative AI / LLMs**
+- 🧠 I’m currently deepening my studies in **Natural Language Processing and Generative AI / LLMs**
 
 - 📫 How to reach me: **lorenamelo.engr@gmail.com**
     
