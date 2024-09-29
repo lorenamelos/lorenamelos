@@ -13,7 +13,7 @@
 
 - 🌞 I believe we are all creatives and my main idea is **have fun creating incredible stuff** and also **building an exciting life**.
 
-<h3 align="left"> 🔗 Connect with me:</h3>
+<h3 align="left"> 🔗 Follow with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lorenamelodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenamelodev" height="30" width="40" /></a>
 <a href="https://kaggle.com/lorenameloengr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lorenameloengr" height="30" width="40" /></a>
