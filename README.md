@@ -50,7 +50,6 @@ Engineer by training, artist by heart. I believe the best solutions come from co
 
 <p align="left">
   <a href="https://linkedin.com/in/lorenameloengr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenameloengr" height="30" width="40"/></a>
-  <a href="https://kaggle.com/lorenameloengr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lorenameloengr" height="30" width="40"/></a>
   <a href="https://medium.com/@lorenamelo.engr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lorenamelo.engr" height="30" width="40"/></a>
 </p>
 
