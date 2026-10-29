@@ -15,11 +15,11 @@ I specialize in **Machine Learning, NLP, LLMs, and predictive modeling** for rea
 
 ### Recent work
 
-🏭 **Warehouse forecasting model** — XGBoost pipeline achieving MAE 1.79 across 3 LATAM distribution centers
+🏭 **Warehouse forecasting model** — XGBoost predicting SKU-level storage occupancy across 3 LATAM distribution centers; MAE 1.79 against a 2.19 moving-average baseline
 
-💬 **Sentiment analysis system** — End-to-end NLP pipeline deployed on AWS (SageMaker, Lambda)
+💬 **Sentiment analysis system** — End-to-end PySpark pipeline on AWS (Glue, Iceberg) classifying survey comments into 25+ structured attributes; 92% agreement with human annotation
 
-📈 **Sales forecasting** — Time-series model with 96.5% R², deployed via AWS Glue + QuickSight
+📈 **Sales forecasting** — Three-tier time-series system (LightGBM / RandomForest / ElasticNet) over ~1,800 series, R² 0.808, with monthly retraining promoted to the production table via AWS Step Functions
 
 ---
 
@@ -34,6 +34,7 @@ I specialize in **Machine Learning, NLP, LLMs, and predictive modeling** for rea
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/></a>
 </p>
 
 `LangChain` `OpenAI` `Anthropic` `Streamlit` `SQL Server` `RAG`
