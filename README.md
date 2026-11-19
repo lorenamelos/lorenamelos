@@ -9,7 +9,7 @@
 
 ### What I do
 
-I specialize in **Machine Learning, NLP, LLMs, and predictive modeling** for real business problems.
+I specialize in **Data Science, Machine Learning, NLP, LLMs, and predictive modeling** for real business problems.
 
 ---
 
